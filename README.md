@@ -40,22 +40,22 @@
 
 #### 第三章 图论
 
-|           VIDEOS           | DATE | REVIEW |
-| :------------------------: | ---- | ------ |
-| 3.1.1 单源最短路的建图方式 |      |        |
-| 3.1.2 单源最短路的综合应用 |      |        |
-| 3.1.3 单源最短路的扩展应用 |      |        |
-|   3.2 floyd算法及其变形    |      |        |
-| 3.3.1 最小生成树的典型应用 |      |        |
-| 3.3.2 最小生成树的扩展应用 |      |        |
-|       3.4 SPFA求负环       |      |        |
-|        3.5 差分约束        |      |        |
-|      3.6 最近公共祖先      |      |        |
-|   3.7 有向图的强连通分量   |      |        |
-|   3.8 无向图的双连通分量   |      |        |
-|         3.9 二分图         |      |        |
-|  3.10 欧拉回路和欧拉路径   |      |        |
-|       3.11 拓扑排序        |      |        |
+|           VIDEOS           | DATE       | REVIEW                                                       |
+| :------------------------: | ---------- | ------------------------------------------------------------ |
+| 3.1.1 单源最短路的建图方式 |            |                                                              |
+| 3.1.2 单源最短路的综合应用 |            |                                                              |
+| 3.1.3 单源最短路的扩展应用 |            |                                                              |
+|   3.2 floyd算法及其变形    |            |                                                              |
+| 3.3.1 最小生成树的典型应用 |            |                                                              |
+| 3.3.2 最小生成树的扩展应用 |            |                                                              |
+|       3.4 SPFA求负环       |            |                                                              |
+|        3.5 差分约束        |            |                                                              |
+|      3.6 最近公共祖先      |            |                                                              |
+|   3.7 有向图的强连通分量   |            |                                                              |
+|   3.8 无向图的双连通分量   |            |                                                              |
+|         3.9 二分图         |            |                                                              |
+|  3.10 欧拉回路和欧拉路径   | 2021-11-19 | [笔记](https://mbfjllybl.github.io/2021/12/10/%E3%80%8C%E5%9B%BE%E8%AE%BA%E3%80%8D%E6%AC%A7%E6%8B%89%E5%9B%9E%E8%B7%AF%E4%B8%8E%E6%AC%A7%E6%8B%89%E8%B7%AF%E5%BE%84/) |
+|       3.11 拓扑排序        |            |                                                              |
 
 #### 第四章 数据结构
 
@@ -108,66 +108,66 @@
 
 #### 第三章 图论
 
-| Title                       | Solution                                                     | Date       | Review             |
-| --------------------------- | ------------------------------------------------------------ | ---------- | ------------------ |
-| AcWing 1129. 热浪           | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1128. 信使           | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1127. 香甜的黄油     | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1126. 最小花费       | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 920. 最优乘车        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 903. 昂贵的聘礼      | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1135. 新年好         | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 340. 通信线路        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 342. 道路与航线      | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 341. 最优贸易        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1137. 选择最佳线路   | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1131. 拯救大兵瑞恩   | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1134. 最短路计数     | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 383. 观光            | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1125. 牛的旅行       | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 343. 排序            | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 344. 观光之旅        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 345. 牛站            | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1140. 最短网络       | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1141. 局域网         | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1142. 繁忙的都市     | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1143. 联络员         | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1144. 连接格点       | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1146. 新的开始       | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1145. 北极通讯网络   | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 346. 走廊泼水节      | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1148. 秘密的牛奶运输 | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 904. 虫洞            | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 361. 观光奶牛        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1165. 单词环         | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1169. 糖果           | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 362. 区间            | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1170. 排队布局       | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 393. 雇佣收银员      | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1172. 祖孙询问       | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1171. 距离           | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 356. 次小生成树      | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 352. 闇の連鎖        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1174. 受欢迎的牛     | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 367. 学校网络        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1175. 最大半连通子图 | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 368. 银河            | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 395. 冗余路径        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1183. 电力           | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 396. 矿场搭建        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 257. 关押罪犯        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 372. 棋盘覆盖        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 376. 机器任务        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 378. 骑士放置        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 379. 捉迷藏          | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1123. 铲雪车         | [Java](https://github.com/mbfjllybl/acwing-improve-class/blob/master/src/chapter3/ChanXueChe/Main.java)/[C++](https://github.com/mbfjllybl/acwing-improve-class/blob/master/src/chapter3/ChanXueChe/Main.cpp) | 2021-11-19 | :heavy_check_mark: |
-| AcWing 1184. 欧拉回路       | [Java](https://github.com/mbfjllybl/acwing-improve-class/blob/master/src/chapter3/OuLaHuiLu/Main.java)/[C++](https://github.com/mbfjllybl/acwing-improve-class/blob/master/src/chapter3/OuLaHuiLu/Main.cpp) | 2021-11-19 | :heavy_check_mark: |
-| AcWing 1124. 骑马修栅栏     | [Java](https://github.com/mbfjllybl/acwing-improve-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-improve-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1185. 单词游戏       | [Java](https://github.com/mbfjllybl/acwing-improve-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-improve-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1191. 家谱树         | [Java](https://github.com/mbfjllybl/acwing-improve-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-improve-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 1192. 奖金           | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 164. 可达性统计      | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
-| AcWing 456. 车站分级        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                    |
+| Title                       | Solution                                                     | Date       | Review                   |
+| --------------------------- | ------------------------------------------------------------ | ---------- | ------------------------ |
+| AcWing 1129. 热浪           | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1128. 信使           | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1127. 香甜的黄油     | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1126. 最小花费       | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 920. 最优乘车        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 903. 昂贵的聘礼      | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1135. 新年好         | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 340. 通信线路        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 342. 道路与航线      | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 341. 最优贸易        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1137. 选择最佳线路   | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1131. 拯救大兵瑞恩   | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1134. 最短路计数     | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 383. 观光            | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1125. 牛的旅行       | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 343. 排序            | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 344. 观光之旅        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 345. 牛站            | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1140. 最短网络       | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1141. 局域网         | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1142. 繁忙的都市     | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1143. 联络员         | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1144. 连接格点       | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1146. 新的开始       | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1145. 北极通讯网络   | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 346. 走廊泼水节      | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1148. 秘密的牛奶运输 | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 904. 虫洞            | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 361. 观光奶牛        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1165. 单词环         | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1169. 糖果           | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 362. 区间            | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1170. 排队布局       | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 393. 雇佣收银员      | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1172. 祖孙询问       | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1171. 距离           | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 356. 次小生成树      | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 352. 闇の連鎖        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1174. 受欢迎的牛     | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 367. 学校网络        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1175. 最大半连通子图 | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 368. 银河            | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 395. 冗余路径        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1183. 电力           | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 396. 矿场搭建        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 257. 关押罪犯        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 372. 棋盘覆盖        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 376. 机器任务        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 378. 骑士放置        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 379. 捉迷藏          | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1123. 铲雪车         | [Java](https://github.com/mbfjllybl/acwing-improve-class/blob/master/src/chapter3/ChanXueChe/Main.java)/[C++](https://github.com/mbfjllybl/acwing-improve-class/blob/master/src/chapter3/ChanXueChe/Main.cpp) | 2021-11-19 | :heavy_check_mark:       |
+| AcWing 1184. 欧拉回路       | [Java](https://github.com/mbfjllybl/acwing-improve-class/blob/master/src/chapter3/OuLaHuiLu/Main.java)/[C++](https://github.com/mbfjllybl/acwing-improve-class/blob/master/src/chapter3/OuLaHuiLu/Main.cpp) | 2021-11-19 | :heavy_multiplication_x: |
+| AcWing 1124. 骑马修栅栏     | [Java](https://github.com/mbfjllybl/acwing-improve-class/blob/master/src/chapter3/QiMaXiuZhaLan/Main.java)/[C++](https://github.com/mbfjllybl/acwing-improve-class/blob/master/src/chapter3/QiMaXiuZhaLan/Main.cpp) | 2021-12-10 | :heavy_check_mark:       |
+| AcWing 1185. 单词游戏       | [Java](https://github.com/mbfjllybl/acwing-improve-class/blob/master/src/chapter3/DanCiYouXi/Main.java)/[C++](https://github.com/mbfjllybl/acwing-improve-class/blob/master/src/chapter3/DanCiYouXi/Main.cpp) | 2021-12-10 | :heavy_check_mark:       |
+| AcWing 1191. 家谱树         | [Java](https://github.com/mbfjllybl/acwing-improve-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-improve-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 1192. 奖金           | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 164. 可达性统计      | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
+| AcWing 456. 车站分级        | [Java](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.java)/[C++](https://github.com/mbfjllybl/acwing-basic-class/blob/master/src/chapter3//Main.cpp) |            |                          |
 
 
 
